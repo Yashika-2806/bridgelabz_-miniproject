@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bridgelabz_-miniproject/static/css/main.2e220376.css",
-    "main.js": "/bridgelabz_-miniproject/static/js/main.9e23e4de.js",
+    "main.js": "/bridgelabz_-miniproject/static/js/main.65d6f751.js",
     "index.html": "/bridgelabz_-miniproject/index.html",
     "main.2e220376.css.map": "/bridgelabz_-miniproject/static/css/main.2e220376.css.map",
-    "main.9e23e4de.js.map": "/bridgelabz_-miniproject/static/js/main.9e23e4de.js.map"
+    "main.65d6f751.js.map": "/bridgelabz_-miniproject/static/js/main.65d6f751.js.map"
   },
   "entrypoints": [
     "static/css/main.2e220376.css",
-    "static/js/main.9e23e4de.js"
+    "static/js/main.65d6f751.js"
   ]
 }
